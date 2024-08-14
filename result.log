@@ -1,0 +1,218 @@
+error: Message: element click intercepted: Element <span class="select2-selection__rendered" id="select2-id_area-container" role="textbox" aria-readonly="true" title="...">Thành phố Hồ Chí Minh</span> is not clickable at point (348, 307). Other element would receive the click: <div class="swal2-container swal2-center swal2-backdrop-show" style="overflow-y: auto;">...</div>
+  (Session info: chrome=126.0.6478.183)
+Stacktrace:
+0   chromedriver                        0x000000010077ea0c chromedriver + 4385292
+1   chromedriver                        0x0000000100777318 chromedriver + 4354840
+2   chromedriver                        0x0000000100394b0c chromedriver + 281356
+3   chromedriver                        0x00000001003dcce0 chromedriver + 576736
+4   chromedriver                        0x00000001003db284 chromedriver + 569988
+5   chromedriver                        0x00000001003d9414 chromedriver + 562196
+6   chromedriver                        0x00000001003d85b0 chromedriver + 558512
+7   chromedriver                        0x00000001003cdcfc chromedriver + 515324
+8   chromedriver                        0x00000001003cd734 chromedriver + 513844
+9   chromedriver                        0x000000010040fd24 chromedriver + 785700
+10  chromedriver                        0x00000001003cbeec chromedriver + 507628
+11  chromedriver                        0x00000001003cc8c4 chromedriver + 510148
+12  chromedriver                        0x00000001007463c8 chromedriver + 4154312
+13  chromedriver                        0x000000010074ae2c chromedriver + 4173356
+14  chromedriver                        0x000000010072bf84 chromedriver + 4046724
+15  chromedriver                        0x000000010074b718 chromedriver + 4175640
+16  chromedriver                        0x000000010071ef44 chromedriver + 3993412
+17  chromedriver                        0x00000001007691a8 chromedriver + 4297128
+18  chromedriver                        0x0000000100769324 chromedriver + 4297508
+19  chromedriver                        0x0000000100776f10 chromedriver + 4353808
+20  libsystem_pthread.dylib             0x000000018e6aa06c _pthread_start + 148
+21  libsystem_pthread.dylib             0x000000018e6a4e2c thread_start + 8
+
+error: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="recaptcha-anchor-label"]"}
+  (Session info: chrome=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000101046a0c chromedriver + 4385292
+1   chromedriver                        0x000000010103f318 chromedriver + 4354840
+2   chromedriver                        0x0000000100c5cb0c chromedriver + 281356
+3   chromedriver                        0x0000000100c9f2f8 chromedriver + 553720
+4   chromedriver                        0x0000000100cd7d24 chromedriver + 785700
+5   chromedriver                        0x0000000100c93eec chromedriver + 507628
+6   chromedriver                        0x0000000100c948c4 chromedriver + 510148
+7   chromedriver                        0x000000010100e3c8 chromedriver + 4154312
+8   chromedriver                        0x0000000101012e2c chromedriver + 4173356
+9   chromedriver                        0x0000000100ff3f84 chromedriver + 4046724
+10  chromedriver                        0x0000000101013718 chromedriver + 4175640
+11  chromedriver                        0x0000000100fe6f44 chromedriver + 3993412
+12  chromedriver                        0x00000001010311a8 chromedriver + 4297128
+13  chromedriver                        0x0000000101031324 chromedriver + 4297508
+14  chromedriver                        0x000000010103ef10 chromedriver + 4353808
+15  libsystem_pthread.dylib             0x000000018e6aa06c _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000018e6a4e2c thread_start + 8
+
+error: Message: element click intercepted: Element <span class="select2-selection__rendered" id="select2-id_area-container" role="textbox" aria-readonly="true" title="...">Thành phố Hồ Chí Minh</span> is not clickable at point (348, 307). Other element would receive the click: <div class="swal2-container swal2-center swal2-backdrop-show" style="overflow-y: auto;">...</div>
+  (Session info: chrome=126.0.6478.183)
+Stacktrace:
+0   chromedriver                        0x0000000100d2aa0c chromedriver + 4385292
+1   chromedriver                        0x0000000100d23318 chromedriver + 4354840
+2   chromedriver                        0x0000000100940b0c chromedriver + 281356
+3   chromedriver                        0x0000000100988ce0 chromedriver + 576736
+4   chromedriver                        0x0000000100987284 chromedriver + 569988
+5   chromedriver                        0x0000000100985414 chromedriver + 562196
+6   chromedriver                        0x00000001009845b0 chromedriver + 558512
+7   chromedriver                        0x0000000100979cfc chromedriver + 515324
+8   chromedriver                        0x0000000100979734 chromedriver + 513844
+9   chromedriver                        0x00000001009bbd24 chromedriver + 785700
+10  chromedriver                        0x0000000100977eec chromedriver + 507628
+11  chromedriver                        0x00000001009788c4 chromedriver + 510148
+12  chromedriver                        0x0000000100cf23c8 chromedriver + 4154312
+13  chromedriver                        0x0000000100cf6e2c chromedriver + 4173356
+14  chromedriver                        0x0000000100cd7f84 chromedriver + 4046724
+15  chromedriver                        0x0000000100cf7718 chromedriver + 4175640
+16  chromedriver                        0x0000000100ccaf44 chromedriver + 3993412
+17  chromedriver                        0x0000000100d151a8 chromedriver + 4297128
+18  chromedriver                        0x0000000100d15324 chromedriver + 4297508
+19  chromedriver                        0x0000000100d22f10 chromedriver + 4353808
+20  libsystem_pthread.dylib             0x000000018e6aa06c _pthread_start + 148
+21  libsystem_pthread.dylib             0x000000018e6a4e2c thread_start + 8
+
+error: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="register_form_submit"]"}
+  (Session info: chrome=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000104506a0c chromedriver + 4385292
+1   chromedriver                        0x00000001044ff318 chromedriver + 4354840
+2   chromedriver                        0x000000010411cb0c chromedriver + 281356
+3   chromedriver                        0x000000010415f2f8 chromedriver + 553720
+4   chromedriver                        0x0000000104197d24 chromedriver + 785700
+5   chromedriver                        0x0000000104153eec chromedriver + 507628
+6   chromedriver                        0x00000001041548c4 chromedriver + 510148
+7   chromedriver                        0x00000001044ce3c8 chromedriver + 4154312
+8   chromedriver                        0x00000001044d2e2c chromedriver + 4173356
+9   chromedriver                        0x00000001044b3f84 chromedriver + 4046724
+10  chromedriver                        0x00000001044d3718 chromedriver + 4175640
+11  chromedriver                        0x00000001044a6f44 chromedriver + 3993412
+12  chromedriver                        0x00000001044f11a8 chromedriver + 4297128
+13  chromedriver                        0x00000001044f1324 chromedriver + 4297508
+14  chromedriver                        0x00000001044fef10 chromedriver + 4353808
+15  libsystem_pthread.dylib             0x000000018e6aa06c _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000018e6a4e2c thread_start + 8
+
+error: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="register_form_submit"]"}
+  (Session info: chrome=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x00000001047f6a0c chromedriver + 4385292
+1   chromedriver                        0x00000001047ef318 chromedriver + 4354840
+2   chromedriver                        0x000000010440cb0c chromedriver + 281356
+3   chromedriver                        0x000000010444f2f8 chromedriver + 553720
+4   chromedriver                        0x0000000104487d24 chromedriver + 785700
+5   chromedriver                        0x0000000104443eec chromedriver + 507628
+6   chromedriver                        0x00000001044448c4 chromedriver + 510148
+7   chromedriver                        0x00000001047be3c8 chromedriver + 4154312
+8   chromedriver                        0x00000001047c2e2c chromedriver + 4173356
+9   chromedriver                        0x00000001047a3f84 chromedriver + 4046724
+10  chromedriver                        0x00000001047c3718 chromedriver + 4175640
+11  chromedriver                        0x0000000104796f44 chromedriver + 3993412
+12  chromedriver                        0x00000001047e11a8 chromedriver + 4297128
+13  chromedriver                        0x00000001047e1324 chromedriver + 4297508
+14  chromedriver                        0x00000001047eef10 chromedriver + 4353808
+15  libsystem_pthread.dylib             0x000000018e6aa06c _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000018e6a4e2c thread_start + 8
+
+error: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="register_form_submit"]"}
+  (Session info: chrome=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000104832a0c chromedriver + 4385292
+1   chromedriver                        0x000000010482b318 chromedriver + 4354840
+2   chromedriver                        0x0000000104448b0c chromedriver + 281356
+3   chromedriver                        0x000000010448b2f8 chromedriver + 553720
+4   chromedriver                        0x00000001044c3d24 chromedriver + 785700
+5   chromedriver                        0x000000010447feec chromedriver + 507628
+6   chromedriver                        0x00000001044808c4 chromedriver + 510148
+7   chromedriver                        0x00000001047fa3c8 chromedriver + 4154312
+8   chromedriver                        0x00000001047fee2c chromedriver + 4173356
+9   chromedriver                        0x00000001047dff84 chromedriver + 4046724
+10  chromedriver                        0x00000001047ff718 chromedriver + 4175640
+11  chromedriver                        0x00000001047d2f44 chromedriver + 3993412
+12  chromedriver                        0x000000010481d1a8 chromedriver + 4297128
+13  chromedriver                        0x000000010481d324 chromedriver + 4297508
+14  chromedriver                        0x000000010482af10 chromedriver + 4353808
+15  libsystem_pthread.dylib             0x000000018e6aa06c _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000018e6a4e2c thread_start + 8
+
+error: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="register_form_submit"]"}
+  (Session info: chrome=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000100852a0c chromedriver + 4385292
+1   chromedriver                        0x000000010084b318 chromedriver + 4354840
+2   chromedriver                        0x0000000100468b0c chromedriver + 281356
+3   chromedriver                        0x00000001004ab2f8 chromedriver + 553720
+4   chromedriver                        0x00000001004e3d24 chromedriver + 785700
+5   chromedriver                        0x000000010049feec chromedriver + 507628
+6   chromedriver                        0x00000001004a08c4 chromedriver + 510148
+7   chromedriver                        0x000000010081a3c8 chromedriver + 4154312
+8   chromedriver                        0x000000010081ee2c chromedriver + 4173356
+9   chromedriver                        0x00000001007fff84 chromedriver + 4046724
+10  chromedriver                        0x000000010081f718 chromedriver + 4175640
+11  chromedriver                        0x00000001007f2f44 chromedriver + 3993412
+12  chromedriver                        0x000000010083d1a8 chromedriver + 4297128
+13  chromedriver                        0x000000010083d324 chromedriver + 4297508
+14  chromedriver                        0x000000010084af10 chromedriver + 4353808
+15  libsystem_pthread.dylib             0x000000018e6aa06c _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000018e6a4e2c thread_start + 8
+
+error: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="register_form_submit"]"}
+  (Session info: chrome=126.0.6478.183); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x0000000104ae2a0c chromedriver + 4385292
+1   chromedriver                        0x0000000104adb318 chromedriver + 4354840
+2   chromedriver                        0x00000001046f8b0c chromedriver + 281356
+3   chromedriver                        0x000000010473b2f8 chromedriver + 553720
+4   chromedriver                        0x0000000104773d24 chromedriver + 785700
+5   chromedriver                        0x000000010472feec chromedriver + 507628
+6   chromedriver                        0x00000001047308c4 chromedriver + 510148
+7   chromedriver                        0x0000000104aaa3c8 chromedriver + 4154312
+8   chromedriver                        0x0000000104aaee2c chromedriver + 4173356
+9   chromedriver                        0x0000000104a8ff84 chromedriver + 4046724
+10  chromedriver                        0x0000000104aaf718 chromedriver + 4175640
+11  chromedriver                        0x0000000104a82f44 chromedriver + 3993412
+12  chromedriver                        0x0000000104acd1a8 chromedriver + 4297128
+13  chromedriver                        0x0000000104acd324 chromedriver + 4297508
+14  chromedriver                        0x0000000104adaf10 chromedriver + 4353808
+15  libsystem_pthread.dylib             0x000000018e6aa06c _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000018e6a4e2c thread_start + 8
+
+error: Message: 
+Stacktrace:
+0   chromedriver                        0x00000001031b6a0c chromedriver + 4385292
+1   chromedriver                        0x00000001031af318 chromedriver + 4354840
+2   chromedriver                        0x0000000102dccb0c chromedriver + 281356
+3   chromedriver                        0x0000000102e0f2f8 chromedriver + 553720
+4   chromedriver                        0x0000000102e47d24 chromedriver + 785700
+5   chromedriver                        0x0000000102e03eec chromedriver + 507628
+6   chromedriver                        0x0000000102e048c4 chromedriver + 510148
+7   chromedriver                        0x000000010317e3c8 chromedriver + 4154312
+8   chromedriver                        0x0000000103182e2c chromedriver + 4173356
+9   chromedriver                        0x0000000103163f84 chromedriver + 4046724
+10  chromedriver                        0x0000000103183718 chromedriver + 4175640
+11  chromedriver                        0x0000000103156f44 chromedriver + 3993412
+12  chromedriver                        0x00000001031a11a8 chromedriver + 4297128
+13  chromedriver                        0x00000001031a1324 chromedriver + 4297508
+14  chromedriver                        0x00000001031aef10 chromedriver + 4353808
+15  libsystem_pthread.dylib             0x000000018e6aa06c _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000018e6a4e2c thread_start + 8
+
+error: Message: 
+Stacktrace:
+0   chromedriver                        0x0000000102649088 cxxbridge1$str$ptr + 1887276
+1   chromedriver                        0x0000000102641764 cxxbridge1$str$ptr + 1856264
+2   chromedriver                        0x000000010225082c cxxbridge1$string$len + 88524
+3   chromedriver                        0x0000000102294834 cxxbridge1$string$len + 367060
+4   chromedriver                        0x00000001022cc48c cxxbridge1$string$len + 595500
+5   chromedriver                        0x0000000102289474 cxxbridge1$string$len + 321044
+6   chromedriver                        0x000000010228a0e4 cxxbridge1$string$len + 324228
+7   chromedriver                        0x0000000102610a6c cxxbridge1$str$ptr + 1656336
+8   chromedriver                        0x00000001026154c8 cxxbridge1$str$ptr + 1675372
+9   chromedriver                        0x00000001025f6950 cxxbridge1$str$ptr + 1549556
+10  chromedriver                        0x0000000102615c78 cxxbridge1$str$ptr + 1677340
+11  chromedriver                        0x00000001025e8660 cxxbridge1$str$ptr + 1491460
+12  chromedriver                        0x0000000102632ac0 cxxbridge1$str$ptr + 1795684
+13  chromedriver                        0x0000000102632c3c cxxbridge1$str$ptr + 1796064
+14  chromedriver                        0x0000000102641398 cxxbridge1$str$ptr + 1855292
+15  libsystem_pthread.dylib             0x000000018e6aa06c _pthread_start + 148
+16  libsystem_pthread.dylib             0x000000018e6a4e2c thread_start + 8
+
